@@ -4,4 +4,5 @@ let passport = {
 };
 let admin = passport;
 admin.name = 'Ivan'; 
+console.log(passport);
 console.log(admin);
